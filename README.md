@@ -15,7 +15,7 @@ Realizzare un sito web a tua scelta, utilizzando le pratiche di sviluppo agile e
    - Documenta il modello del database indicando i tipi di dato, le chiavi primarie e esterne, e una breve descrizione di ciascuna tabella.
 
 3. **Relazione Tecnica:**
-   - Redigi una relazione tecnica che illustri l'architettura generale del sito web.
+   - Redigi una relazione tecnica che illustri l'architettura generale del sito web. Puoi utilizzare il template [presente  nel repository](https://github.com/ProfAndreaPollini/quinta-info-sito-web/blob/ad6aff218156d1cc32c36fc7057582ee3c3ccb7d/template_relazione_tecnica.md)
    - Descrivi le tecnologie utilizzate (linguaggi di programmazione, framework, librerie, ecc.) e le motivazioni dietro le scelte fatte.
    - Spiega l'organizzazione del codice, la struttura delle directory e i principali moduli o componenti del sito.
 
